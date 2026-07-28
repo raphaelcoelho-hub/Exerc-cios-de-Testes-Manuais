@@ -17,14 +17,17 @@ Este repositório contém a especificação e documentação de cenários de tes
 
 ## Tabela de Evidências Manuais
 
-Abaixo está o registro consolidado das validações manuais executadas na suíte de regressão:
+## 📸 Tabela de Evidências Manuais - LinkedIn
 
-| Módulo | Funcionalidade | Cenário / Tag Principal | Status | Evidência Visual |
+| Módulo | Cenário / Tag | Descrição do Cenário | Status | Evidência Visual |
 | :--- | :--- | :--- | :---: | :---: |
-| **01. LinkedIn** | Cadastro & Autenticação | `@CT06_LI` Login Sucesso (Feed) | 🟢 PASSED | [Ver Evidência](#-01-linkedin) |
-| **02. Magazine Luiza** | Autenticação & Segurança | `@CT04_LUISA` Alternar Máscara de Senha | 🟢 PASSED | [Ver Evidência](#-02-magazine-luiza) |
-| **03. Mercado Livre** | Busca & Filtros de Preço | `@CT05_ML` Aplicação de Filtros | 🟢 PASSED | [Ver Evidência](#-03-mercado-livre) |
-| **04. Amazon Brasil** | UI & Navegação por Categoria | `@CT03_AZ` Menu Lateral Responsivo | 🟢 PASSED | [Ver Evidência](#-04-amazon-brasil) |
+| **LinkedIn** | @CT01_LI | Acessar página de criar conta | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/891f8a1e-5292-4784-9393-39065f5c9220) |
+| **LinkedIn** | @CT02_LI | E-mail com formato inválido | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/18f7c1c7-f04a-4e7c-91e2-8956a049a05e) |
+| **LinkedIn** | @CT03_LI | Login com campo de e-mail vazio | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/28bb1924-644a-4791-be95-c6b95d052204) |
+| **LinkedIn** | @CT04_LI | Login com campo de senha vazia | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/f59912e5-8d44-47f4-afd9-cce45801d703) |
+| **LinkedIn** | @CT05_LI | Validação de senha curta/sem número | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/99b44779-1342-441e-b183-de434e2f4396) |
+| **LinkedIn** | @CT06_LI | Comportamento dos botões Continuar | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/9073ea9d-99bb-4010-853f-dcb6cbc316af) |
+
 
 ## Especificação BDD / Gherkin & Evidências
 
