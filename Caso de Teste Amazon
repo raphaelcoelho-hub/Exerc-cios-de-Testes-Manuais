@@ -1,1 +1,12 @@
+## 📸 Tabela de Evidências Manuais (LinkedIn)
+
+| Módulo | Cenário / Tag | Descrição | Status | Evidência Visual |
+| :--- | :--- | :--- | :---: | :---: |
+| **LinkedIn** | @CT01_LI | Acessar página de criar conta | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/891f8a1e-5292-4784-9393-39065f5c9220) |
+| **LinkedIn** | @CT02_LI | E-mail com formato inválido | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/18f7c1c7-f04a-4e7c-91e2-8956a049a05e) |
+| **LinkedIn** | @CT03_LI | Login com e-mail em branco | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/28bb1924-644a-4791-be95-c6b95d052204) |
+| **LinkedIn** | @CT04_LI | Login com senha em branco | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/f59912e5-8d44-47f4-afd9-cce45801d703) |
+| **LinkedIn** | @CT05_LI | Validação de senha curta | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/99b44779-1342-441e-b183-de434e2f4396) |
+| **LinkedIn** | @CT06_LI | Comportamento dos botões Continuar | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/9073ea9d-99bb-4010-853f-dcb6cbc316af) |
+
 
