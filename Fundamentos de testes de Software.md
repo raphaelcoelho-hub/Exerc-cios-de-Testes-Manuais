@@ -1,4 +1,4 @@
-#  Casos de testes manuais e reportes (BDD / Gherkin)
+#  Casos de testes manuais e reportes - BDD
 
 ##  Sobre o Projeto
 
@@ -17,7 +17,7 @@ Este repositório contém a especificação e documentação de cenários de tes
 
 ## Tabela de Evidências Manuais
 
-## 📸 Tabela de Evidências Manuais - LinkedIn
+## Tabela de Evidências Manuais - LinkedIn
 
 | Módulo | Cenário / Tag | Descrição do Cenário | Status | Evidência Visual |
 | :--- | :--- | :--- | :---: | :---: |
@@ -28,7 +28,7 @@ Este repositório contém a especificação e documentação de cenários de tes
 | **LinkedIn** | @CT05_LI | Validação de senha curta/sem número | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/99b44779-1342-441e-b183-de434e2f4396) |
 | **LinkedIn** | @CT06_LI | Comportamento dos botões Continuar | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/9073ea9d-99bb-4010-853f-dcb6cbc316af) |
 
-## 📸 Tabela de Evidências Manuais - Magazine Luiza
+## Tabela de Evidências Manuais - Magazine Luiza
 
 | Módulo | Cenário / Tag | Descrição do Cenário | Status | Evidência Visual |
 | :--- | :--- | :--- | :---: | :---: |
@@ -38,8 +38,6 @@ Este repositório contém a especificação e documentação de cenários de tes
 | **Magazine Luiza** | @CT04_LUISA | Testar funcionalidade de mostrar/ocultar senha | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/b0c99483-0a77-43a4-a507-f4840b02e61e) |
 | **Magazine Luiza** | @CT05_LUISA | Tentativa de avançar com e-mail em branco | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/7445702c-4d36-446d-b901-775f345a39b6) |
 | **Magazine Luiza** | @CT06_LUISA | Validar limite mínimo de caracteres na senha | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/6d49f37e-313f-4c38-9aec-e2b7c7d5569a) |
-
-# 🟡 03. Mercado Livre
 
 ### 📸 Tabela de Evidências Manuais (Mercado Livre)
 
@@ -52,9 +50,7 @@ Este repositório contém a especificação e documentação de cenários de tes
 | **Mercado Livre** | @CT05_ML | Aplicar filtro de faixa de preço | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/f18a77da-4853-4659-8880-e77bdf4be32d) |
 | **Mercado Livre** | @CT06_ML | Ordenar resultados da busca por menor preço | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/f12cf35d-ff27-47d9-ab86-29dc2d5f0920) |
 
-## 🟠 04. Amazon Brasil
-
-### 📸 Tabela de Evidências Manuais (Amazon Brasil)
+### Tabela de Evidências Manuais (Amazon Brasil)
 
 | Módulo | Cenário / Tag | Descrição do Cenário | Status | Evidência Visual |
 | :--- | :--- | :--- | :---: | :---: |
@@ -65,7 +61,14 @@ Este repositório contém a especificação e documentação de cenários de tes
 | **Amazon** | @CT05_AZ | Validar consistência de layout, alinhamentos e contraste da Home | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/a9f202a8-2569-46cb-b960-156620f4d752) |
 | **Amazon** | @CT06_AZ | Acionamento do menu suspenso em "Contas e Listas" via hover | 🟢 PASSED | [Ver Evidência](https://github.com/user-attachments/assets/33e813ef-34ca-4300-aeeb-2893ba714407) |
 
+---
+---
+
 ### 📑 Cenários de Teste & Evidências Visuais
+
+---
+
+# 1 - Linkedin
 
 #### 📌 **`@CT01_LI` - Acessar a página de criação de conta**
 * **Dado** que o usuário está na página de login do LinkedIn
@@ -148,6 +151,8 @@ Este repositório contém a especificação e documentação de cenários de tes
 
 ---
 ---
+
+# 2 - Magazine Luiza
 
 #### 📌 **`@CT01_LUISA` - Tentativa de login com e-mail correto e senha incorreta**
 * **Dado** que o usuário insere um e-mail válido no campo de autenticação
@@ -233,6 +238,8 @@ Este repositório contém a especificação e documentação de cenários de tes
 
 ## 📑 Cenários de Teste & Evidências Visuais
 
+# 3 - Mercado Livre
+
 #### 📌 **`@CT01_ML` - Autocompletar na busca por palavra-chave**
 * **Dado** que o usuário está na página inicial do Mercado Livre
 * **Quando** começa a digitar "notebook" no campo de busca
@@ -314,6 +321,8 @@ Este repositório contém a especificação e documentação de cenários de tes
 
 
 ### 📑 Cenários de Teste & Evidências Visuais
+
+# 4 - Amazon
 
 #### 📌 **`@CT01_AZ` - Validar a visibilidade da opção de login na barra superior**
 * **Dado** que o usuário está na página inicial da Amazon Brasil
